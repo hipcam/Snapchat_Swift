@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+            timestampString = "563921751.003973"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ImagenViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.descripcionTextField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914048.452108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.descripcionTextField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914048.454803"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Lab10Snapchat.ImagenViewController"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914048.457662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Lab10Snapchat.ImagenViewController&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914048.460189"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+            timestampString = "563921751.004107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ImagenViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.imageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914153.420007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.imageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914153.4252011"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Lab10Snapchat.ImagenViewController"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914153.429031"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "363">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Lab10Snapchat.ImagenViewController&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914153.431456"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "277">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+            timestampString = "563921751.00421"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ImagenViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.elegirContactoBoton.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914170.926368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.elegirContactoBoton.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914170.9305021"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Lab10Snapchat.ImagenViewController"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914170.933846"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Lab10Snapchat.ImagenViewController&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914170.9355"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+            timestampString = "563921751.004306"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ImagenViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.imagePicker.getter : __ObjC.UIImagePickerController"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914195.2217211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.imagePicker.setter : __ObjC.UIImagePickerController"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914195.224046"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Lab10Snapchat.ImagenViewController"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914195.227669"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lab10Snapchat.ImagenViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Lab10Snapchat.ImagenViewController&gt;"
+                  moduleName = "Lab10Snapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fernanda/Desktop/Proyectos%20iOS/ej1_lab10/Lab10Snapchat/Lab10Snapchat/ViewControllers/ImagenViewController.swift"
+                  timestampString = "563914195.2304389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "359">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
